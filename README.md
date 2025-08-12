@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on open-source project related to web development. Particularly interested in projects that promote accessibility and inclusivity.
-- 📫 Feel free to connect with me on LinkedIn https://www.linkedin.com/in/rajnandini-gidde-070387257 or drop mw an email at knowledge.seeker1722@gmail.com
+- 📫 Feel free to connect with me on LinkedIn https://www.linkedin.com/in/rajnandini-gidde or drop mw an email at rngidde0017@gmail.com
 - 😄 Pronouns: She/ Her
 
 <!---
